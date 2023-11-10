@@ -69,17 +69,14 @@
 }
 
 @media screen and (max-width: 1279px) {
-
   .cover {
     width: 768px;
     height: 746px;
     overflow: hidden;
   }
-
 }
 
 @media screen and (max-width: 767px) {
-
   .cover {
     max-width: 321px;
     max-height: 254px;
@@ -101,5 +98,4 @@
     margin-top: 16px;
     margin-bottom: 16px;
   }
-
 }
