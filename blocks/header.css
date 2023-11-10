@@ -1,0 +1,22 @@
+.header {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.header__logo {
+  width: 270px;
+  height: 70px;
+  padding-top: 34px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 767px) {
+
+  .header__logo {
+    width: 200px;
+    height: 52px;
+    padding-top: 20px;
+    margin: 0;
+  }
+
+}

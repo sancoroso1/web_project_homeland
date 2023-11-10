@@ -1,0 +1,13 @@
+.footer {
+  color: white;
+  padding-bottom: 24px;
+  text-align: center;
+}
+
+.footer__copyright {
+  width: 90%;
+  margin: auto;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+}
